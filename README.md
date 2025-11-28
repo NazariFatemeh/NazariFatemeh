@@ -14,7 +14,7 @@ JavaScript (ES6+)
 
 React
 
-Next
+Next16
 
 Git & GitHub
 
