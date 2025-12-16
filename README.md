@@ -8,10 +8,12 @@
 [GitHub](https://github.com/NazariFatemeh) • [LinkedIn](https://www.linkedin.com/in/fatemeh-nazari-137703199)
 
 ---
-
 ## 🛠️ Skills
-HTML5 • CSS3 • JavaScript • React • Next.js 16 • Git
+HTML5 • CSS3 • Tailwind 
+JavaScript • React • Next.js 16 
+Git & GitHub
+Responsive Design
+RESTful API
 
 ---
-
 📩 **Email:** Fatemeh79.nazari@gmail.com
