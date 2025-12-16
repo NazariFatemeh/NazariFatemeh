@@ -1,9 +1,7 @@
 # 🌟 Hi! I'm Fatemeh
 **Frontend Developer** building clean, responsive & user-friendly web apps.
 
----
-
-![Mini Coding](https://media.giphy.com/media/l3vR8p8fHcLh1v1yU/giphy.gif)
+![Coding Laptop](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
