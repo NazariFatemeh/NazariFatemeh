@@ -5,7 +5,7 @@ responsive, and user-friendly web applications.
 
 GitHub:https://github.com/NazariFatemeh
 
-LinkedIn: fatemeh-nazari
+LinkedIn: www.linkedin.com/in/fatemeh-nazari-137703199
 
 🛠️ Skills
 
