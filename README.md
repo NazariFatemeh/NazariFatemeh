@@ -1,6 +1,8 @@
 # 🌟 Hi! I'm Fatemeh
 I'm a **passionate Frontend Developer** creating clean, responsive, and user-friendly web applications.
 
+![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ---
 
 ## 🔗 Links
