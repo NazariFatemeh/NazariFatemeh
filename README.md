@@ -1,7 +1,7 @@
 # 🌟 Hi! I'm Fatemeh
 **Frontend Developer** building clean, responsive & user-friendly web apps.
 
-![Coding Laptop](https://i.ibb.co/album/your-gif-link.gif) <!-- این لینک را به لینک GIF آپلود شده‌تان تغییر بدهید -->
+![Coding Laptop](https://i.ibb.co/album/your-gif-link.gif) 
 
 ---
 
