@@ -9,11 +9,12 @@
 
 ---
 ## 🛠️ Skills
-HTML5 • CSS3 • Tailwind 
-JavaScript • React • Next.js 16 
-Git & GitHub
-Responsive Design
-RESTful API
+
+| Frontend | Tools & Others |
+|----------|----------------|
+| HTML5, CSS3, Tailwind | Git & GitHub |
+| JavaScript, React, Next.js 16 | Responsive Design, RESTful API |
+
 
 ---
 📩 **Email:** Fatemeh79.nazari@gmail.com
