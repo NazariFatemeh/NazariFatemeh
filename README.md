@@ -1,7 +1,8 @@
 # 🌟 Hi! I'm Fatemeh
 **Frontend Developer** building clean, responsive & user-friendly web apps.
+
 ---
-<img width="153" height="200" alt="1" dir="rtl" src="https://github.com/user-attachments/assets/725ba738-c76b-4447-b9a2-52d5702dbe83" />
+<img width="500" height="315" alt="1" src="https://github.com/user-attachments/assets/6c8d5888-48cd-41d9-9ced-42943092bf8d" />
 
 ## 🔗 Links
 [GitHub](https://github.com/NazariFatemeh) • [LinkedIn](https://www.linkedin.com/in/fatemeh-nazari-137703199)
