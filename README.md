@@ -1,20 +1,20 @@
 # 🌟 Hi! I'm Fatemeh
-I'm a **passionate Frontend Developer** creating clean, responsive, and user-friendly web applications.
+**Frontend Developer** building clean, responsive & user-friendly web apps.
 
-![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+---
+
+![Mini Coding](https://media.giphy.com/media/l3vR8p8fHcLh1v1yU/giphy.gif)
 
 ---
 
 ## 🔗 Links
-- [GitHub](https://github.com/NazariFatemeh)  
-- [LinkedIn](https://www.linkedin.com/in/fatemeh-nazari-137703199)  
+[GitHub](https://github.com/NazariFatemeh) • [LinkedIn](https://www.linkedin.com/in/fatemeh-nazari-137703199)
 
 ---
 
 ## 🛠️ Skills
-**HTML5 & CSS3 • JavaScript (ES6+) • React • Next.js 16 • Git & GitHub**
+HTML5 • CSS3 • JavaScript • React • Next.js 16 • Git
 
 ---
 
-## 📩 Contact
-**Email:** Fatemeh79.nazari@gmail.com
+📩 **Email:** Fatemeh79.nazari@gmail.com
