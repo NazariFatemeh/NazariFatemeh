@@ -3,7 +3,7 @@ responsive, and user-friendly web applications.
 
 🔗 Links
 
-GitHub: github.com/Nazari-Fatemeh
+GitHub:https://github.com/NazariFatemeh
 
 LinkedIn: fatemeh-nazari
 
