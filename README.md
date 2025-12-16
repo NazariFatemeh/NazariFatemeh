@@ -1,26 +1,17 @@
-<div style="padding-left: 20px; padding-right: 20px;">
+|  |  |
+|--|--|
+| <img width="430" height="315" src="https://github.com/user-attachments/assets/6c8d5888-48cd-41d9-9ced-42943092bf8d" /> | 
+# 🌟 Hi! I'm Fatemeh  
+**Frontend Developer** building clean, responsive & user-friendly web apps.  
 
-# 🌟 Hi! I'm Fatemeh
-**Frontend Developer** building clean, responsive & user-friendly web apps.
+## 🔗 Links  
+[GitHub](https://github.com/NazariFatemeh) • [LinkedIn](https://www.linkedin.com/in/fatemeh-nazari-137703199)  
 
----
-
-<img width="430" height="315" alt="1" src="https://github.com/user-attachments/assets/6c8d5888-48cd-41d9-9ced-42943092bf8d" style="float: left; margin-right: 20px; margin-bottom: 20px;" />
-
-## 🔗 Links
-[GitHub](https://github.com/NazariFatemeh) • [LinkedIn](https://www.linkedin.com/in/fatemeh-nazari-137703199)
-
----
-
-## 🛠️ Skills
+## 🛠️ Skills  
 
 | Frontend | Tools & Others |
 |----------|----------------|
 | HTML5, CSS3, Tailwind | Git & GitHub |
 | JavaScript, React, Next.js 16 | Responsive Design, RESTful API |
 
----
-
-📩 **Email:** Fatemeh79.nazari@gmail.com
-
-</div>
+📩 **Email:** Fatemeh79.nazari@gmail.com |
