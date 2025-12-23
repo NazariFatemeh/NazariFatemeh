@@ -6,8 +6,17 @@
 </p>
 
 ## 🔗 Links  
-[GitHub](https://github.com/NazariFatemeh) •  
-[LinkedIn](https://www.linkedin.com/in/fatemeh-nazari-137703199)  
+
+<a href="https://github.com/NazariFatemeh">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
+  GitHub
+</a>  
+<br/>
+
+<a href="https://www.linkedin.com/in/fatemeh-nazari-137703199">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
+  LinkedIn
+</a>
 
 ## 🛠️ Skills  
 
