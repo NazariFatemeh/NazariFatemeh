@@ -5,12 +5,7 @@
   <img width="420" height="300" src="https://github.com/user-attachments/assets/6c8d5888-48cd-41d9-9ced-42943092bf8d" />
 </p>
 
-## 🔗 Links  
 
-<a href="https://github.com/NazariFatemeh">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
-  GitHub
-</a>  
 <br/>
 
 <a href="https://www.linkedin.com/in/fatemeh-nazari-137703199">
@@ -25,4 +20,11 @@
 | HTML5, CSS3, Tailwind | Git & GitHub |
 | JavaScript, React, Next.js 16 | Responsive Design, RESTful API |
 
+## 🔗 Links  
+
+<a href="https://github.com/NazariFatemeh">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
+  GitHub
+</a>  
+<br/>
 📩 **Email:** Fatemeh79.nazari@gmail.com
