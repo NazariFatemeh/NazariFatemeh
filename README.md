@@ -10,8 +10,6 @@
 
 
 ## 🛠️ Skills  
-
-
 | Frontend | Tools & Others |
 |----------|----------------|
 | HTML5, CSS3, Tailwind | Git & GitHub |
