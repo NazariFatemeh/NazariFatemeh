@@ -2,17 +2,15 @@
 **Frontend Developer** building clean, responsive & user-friendly web apps.  
 <p align="right">
   <img width="300" height="200" src="https://github.com/user-attachments/assets/6c8d5888-48cd-41d9-9ced-42943092bf8d" />
-
 </p>
+
 ## 🛠️ Skills  
 | Frontend | Tools & Others |
 |----------|----------------|
 | HTML5, CSS3, Tailwind | Git & GitHub |
 | JavaScript, React, Next.js 16 | Responsive Design, RESTful API |
 
-
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
