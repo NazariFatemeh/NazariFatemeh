@@ -1,12 +1,12 @@
 # 🌟 Hi! I'm Fatemeh  
 **Frontend Developer** building clean, responsive & user-friendly web apps.  
-
+<br/>
 <p align="right">
   <img width="300" height="250" src="https://github.com/user-attachments/assets/6c8d5888-48cd-41d9-9ced-42943092bf8d" />
 </p>
 
 
-<br/>
+
 
 
 
