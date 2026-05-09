@@ -5,17 +5,17 @@
 
 </p>
 
-
+| Frontend | Tools & Others |
+|----------|----------------|
+| HTML5, CSS3, Tailwind | Git & GitHub |
+| JavaScript, React, Next.js 16 | Responsive Design, RESTful API |
 
 
 
 
 ## 🛠️ Skills  
 
-| Frontend | Tools & Others |
-|----------|----------------|
-| HTML5, CSS3, Tailwind | Git & GitHub |
-| JavaScript, React, Next.js 16 | Responsive Design, RESTful API |
+
 
 ## 🔗 Links  
 
